@@ -1,0 +1,13 @@
+name = "FantastiCreate!"
+author = "akai_hana"
+version = "8.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3f4986f21028fbb1dc0dc803397bfe0390e0d6d3b08dfd09b333a8fe305b8313"
+
+[versions]
+fabric = "0.14.23"
+minecraft = "1.19.2"
